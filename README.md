@@ -1,4 +1,4 @@
 # portfolio
 
 
-full stack developer
+Portfolio showcasing my full stack development project, skills and learning journey
